@@ -47,7 +47,7 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 
 <p align="left">
 <a href="https://koushik-aronno.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Aronno-%2300BFFF?style=flat&logo=Google-Chrome&logoColor=white"></a>
-<a href="mailto:aronno647433@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-%23D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="mailto:aronnokoushik647433@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-%23D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://x.com/Koushik647433" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Aronno-%231DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/aronnogh647433/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_Me-%230077B5?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/koushik_aronno_647433/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow_Me-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
@@ -58,23 +58,23 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aronnogh&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronnogh&theme=tokyonight" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=aronnokoushik647433&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronnokoushik647433&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aronnogh&theme=tokyonight" width="100%" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aronnokoushik647433&theme=tokyonight" width="100%" alt="GitHub Activity Graph">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronnogh&theme=tokyonight" width="100%" alt="Profile Details">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aronnogh&theme=tokyonight" width="48%" alt="Top Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aronnogh&theme=tokyonight" width="48%" alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronnokoushik647433&theme=tokyonight" width="100%" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aronnokoushik647433&theme=tokyonight" width="48%" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aronnokoushik647433&theme=tokyonight" width="48%" alt="Most Used Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronnogh&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aronnogh&theme=tokyonight&utcOffset=5" width="48%" alt="Productive Time">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronnokoushik647433&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aronnokoushik647433&theme=tokyonight&utcOffset=5" width="48%" alt="Productive Time">
 </p>
 
 ---
@@ -82,7 +82,7 @@ I'm a passionate **Full Stack Developer & UI/UX Designer**, specializing in **Re
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aronnogh&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=aronnokoushik647433&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 ---
